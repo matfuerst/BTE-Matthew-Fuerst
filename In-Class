@@ -1,0 +1,9 @@
+r = 3 # radius of the cirlce
+h = 10 # number pi
+pi = 3.14 # height of cylinder
+
+# Calculate surface area of cylinder
+SA = 2*pi*r**2 + 2*pi*r*h
+
+#Display area on the screen
+print(SA)
